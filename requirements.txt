@@ -1,0 +1,10 @@
+# requirements.txt
+
+# The kafka-python library is used to connect and send messages to Kafka from Python
+kafka-python>=2.0.2
+
+# PySpark is the Python library for Apache Spark (including Structured Streaming)
+# Adjust the version to match your local Spark environment if needed.
+pyspark>=3.3.0
+
+prometheus_client       
